@@ -103,16 +103,15 @@ export default defineComponent({
 
 <table>
     <tr>
-        <td><img src="https://www.swiftadmin.net/static/form/1.png"/></td>
-        <td><img src="https://www.swiftadmin.net/static/form/2.png"/></td>
+        <td><img src="https://johnnyjintao.github.io/form-design-docs/assets/img/preview01.png"/></td>
+        <td><img src="https://johnnyjintao.github.io/form-design-docs/assets/img/preview02.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://www.swiftadmin.net/static/form/3.png"/></td>
-        <td><img src="https://www.swiftadmin.net/static/form/33.png"/></td>
+        <td><img src="https://johnnyjintao.github.io/form-design-docs/assets/img/preview03.png"/></td>
+        <td><img src="https://johnnyjintao.github.io/form-design-docs/assets/img/preview04.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://www.swiftadmin.net/static/form/4.png"/></td>
-        <td><img src="https://www.swiftadmin.net/static/form/5.png"/></td>
+        <td><img src="https://johnnyjintao.github.io/form-design-docs/assets/img/preview05.png"/></td>
     </tr>	
 </table>
 
