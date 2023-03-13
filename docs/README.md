@@ -17,8 +17,7 @@ form-design-vue 保姆级文档
 
 ### 在线预览
 ---
-<a href="https://johnnyjintao.github.io/form-design-vue2/index.html" _blank>https://johnnyjintao.github.io/form-design-vue2/index.html</a><br>
-<a href="https://johnnyjintao.github.io/form-design-vue3/index.html" _blank>https://johnnyjintao.github.io/form-design-vue3/index.html</a>
+<a href="https://johnnyjintao.github.io/form-design-vue2/index.html" _blank>https://johnnyjintao.github.io/form-design-vue2/index.html</a>
 
 ### 下载源码
 ---
