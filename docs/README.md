@@ -15,6 +15,11 @@ form-design-vue 保姆级文档
 - 生成 JSON
 - 生成代码
 
+### 在线预览
+---
+<a href="https://johnnyjintao.github.io/form-design-vue2/index.html" _blank>https://johnnyjintao.github.io/form-design-vue2/index.html</a><br>
+<a href="https://johnnyjintao.github.io/form-design-vue3/index.html" _blank>https://johnnyjintao.github.io/form-design-vue3/index.html</a>
+
 ### 下载源码
 ---
 <a href="https://github.com/Johnnyjintao/form-design-vue2" _blank>https://github.com/Johnnyjintao/form-design-vue2</a><br>
